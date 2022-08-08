@@ -39,4 +39,4 @@
 
 <br> 
 
-![Snake animation](https://github.com/MathewsDomingos/MathewsDomingos/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/mathewsdomingos/mathewsdomingos/blob/output/github-contribution-grid-snake.svg
