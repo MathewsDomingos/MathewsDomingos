@@ -1,9 +1,9 @@
 ### Olá! Eu sou Mateus Domingos   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <div>
-<a href="https://instagram.com/#" target="_blank">
+<a href="https://www.instagram.com/mathews.domingos/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/#" target="_blank">
+<a href="https://www.linkedin.com/in/mathews-domingos/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mail:mateusdomingos.etec@gmail.com" target="_blank">
@@ -33,3 +33,8 @@
 <br> 
 
 ![snake gif](https://github.com/MathewsDomingos/MathewsDomingos/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<br> 
+
+### Programming is the art of problem solving
