@@ -1,35 +1,57 @@
-### Olá! Eu sou Mateus Domingos   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align='center'>
+  Olá, sou Mateus Domingos!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
+
+### 🌻 Sobre mim:
+
+<p>
+  <em>
+    Tenho 22 anos, sou de Dobrada, interior de São Paulo e atualmente estou em busca de uma experiência na área.
+  </em>
+</p>
+
+- 🌱 Atualmente estou aprendendo Typescript, ReactJS e PHP.
+- 🚀 Estudante da Rocketseat e Instituição de ensino superior: FATEC
+- 📫 Meu email: mateusdomingos.etec@gmail.com
+
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio
+
+- 🤝 Contribuir em projetos open-source
+
+- 📈 Conseguir uma experiência na área
+
+### ⚡ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql)](https://skillicons.dev)
+
+### 📈 Minhas Estatísticas
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=MathewsDomingos&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsDomingos&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+💬 Quer me conhecer?
+
 <div>
-<a href="https://www.instagram.com/mathews.domingos/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mathews-domingos/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mail:mateusdomingos.etec@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-
-##
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathewsDomingos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsDomingos&layout=compact&langs_count=7&theme=dracula&hide=css"/>
-</div>
+  <a href="https://www.linkedin.com/in/mathews-domingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-### Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-<img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img  align="center" height="30"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" height="30"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="center" height="30"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
+  <a href="https://api.whatsapp.com/send/?phone=%2B5516991585851&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:mateusdomingos.etec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.instagram.com/mathews.domingos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+<br>
 <br> 
 
 ![snake gif](https://github.com/MathewsDomingos/MathewsDomingos/blob/output/github-contribution-grid-snake.svg)
@@ -37,4 +59,6 @@
 <br>
 <br> 
 
-### Programming is the art of problem solving
+
+
+<p>🧠 <spam style="font-style:italic">"Programming is the art of problem solving."</spam></p>
