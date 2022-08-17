@@ -32,7 +32,7 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
