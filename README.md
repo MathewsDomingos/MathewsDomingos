@@ -56,7 +56,6 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 <h2 align="center">Certificados e Certificações</h2>
 <li><b>Certificação – Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> - <i>IBSEC</i>
 </details>
-<br>
 <br> 
 
 ![snake gif](https://github.com/MathewsDomingos/MathewsDomingos/blob/output/github-contribution-grid-snake.svg)
