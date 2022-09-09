@@ -53,7 +53,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 <details>
 <summary align="center">Certificações</summary>
 <h2 align="center">Certificados e Certificações</h2>
-<li><b>Certificação IBSEC – Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> - <i>IBSEC</i>
+<li><b>Certificação – Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> - <i>IBSEC</i>
 </details>
 <br>
 <br> 
