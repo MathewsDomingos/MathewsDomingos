@@ -48,8 +48,13 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
   <a href = "mailto:mateusdomingos.etec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mathews.domingos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<br>
 
-
+<details>
+<summary align="center">Certificações</summary>
+<h2 align="center">Certificados e Certificações</h2>
+<li><b>Certificação IBSEC – Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> - <i>IBSEC</i>
+</details>
 <br>
 <br> 
 
