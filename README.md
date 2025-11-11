@@ -1,68 +1,101 @@
-<h1 align='center'>
-  Olá, sou Mateus Domingos!
-  <br/>
-  Bem vindo a minha página :)
-</h1>
+<h1 align="center">👋 Olá, eu sou o Mateus Domingos!</h1>
 
-<p align='center'>
-  Desenvolvedor Front-End
+<p align="center">
+  🚀 Especialista em Monitoramento, Observabilidade e Automação <br>
+  💻 Criador do <b>Monitor Craft</b> & <b>Zabbix Reports Hub</b> <br>
+  🧠 Apaixonado por tecnologia, design e inovação
 </p>
 
-### 🌻 Sobre mim:
+---
 
-<p>
-  <em>
-    Tenho 22 anos, sou de Dobrada, interior de São Paulo e atualmente estou em busca de uma experiência na área.
-  </em>
-</p>
+### 🌍 Sobre mim
 
-- 🌱 Atualmente estou aprendendo Typescript, ReactJS e PHP.
-- 🚀 Estudante da Rocketseat e Instituição de ensino superior: FATEC
-- 📫 Meu email: mateusdomingos.etec@gmail.com
+Sou Analista de Monitoramento e Desenvolvedor de soluções integradas em **Zabbix, Grafana e n8n**, com foco em **observabilidade alinhada ao negócio**.  
+Atualmente trabalho com **projetos de monitoramento para clientes do setor varejista, infraestrutura e rodovias**, criando dashboards inteligentes e automações que conectam dados, alertas e decisões.
 
-### 📊 Metas 2022:
+🎯 **Resumo rápido:**
+- 💼 Especialista em **Zabbix (v7 LTS)**, **Grafana OSS**, **n8n**, **Docker** e **Supabase**
+- 🧩 Criação de dashboards dinâmicos e relatórios automatizados (PDF, Telegram, E-mail)
+- ⚙️ Desenvolvimento de fluxos low-code/no-code para observabilidade e IA
+- 🧱 Experiência com ambientes Linux (Oracle Linux / Ubuntu)
+- 🧠 Estudante de **Análise e Desenvolvimento de Sistemas - FATEC Taquaritinga**
+- 🐈 Dono de um gato e entusiasta de projetos criativos 😸
 
-- 📂 Expandir meu portfólio
+📫 **Contato:** [mateusdomingos.etec@gmail.com](mailto:mateusdomingos.etec@gmail.com)  
+🌐 **Portfólio:** [mdomingos.lovable.app](https://mdomingos.lovable.app)
 
-- 🤝 Contribuir em projetos open-source
+---
 
-- 📈 Conseguir uma experiência na área
+### ⚡ Tecnologias e Ferramentas
 
-### ⚡ Tecnologias:
+Estas são algumas das stacks e ferramentas com que trabalho no dia a dia:
 
-Estas são algumas das tecnologias e ferramentas que trabalho:
+[![Skills](https://skillicons.dev/icons?i=linux,docker,mysql,html,css,js,ts,react,php,git,github)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
+#### 🧩 Observabilidade & Automação
+- **Zabbix (Server, Proxy, API, Templates, Triggers, Actions)**
+- **Grafana (Data Sources, HTML Graphics, ECharts, Business ECharts)**
+- **n8n (APIs, Workflows, Supabase, S3, Telegram, E-mail, PDF Reports)**
+- **Supabase | AWS S3 | Telegram Bots | Mega API**
 
-### 📈 Minhas Estatísticas
+#### 🧠 Outras Habilidades
+- Criação de dashboards visuais com **HTML/CSS/JS**
+- Design de automações inteligentes com **n8n + Zabbix + Grafana**
+- Produção de conteúdo técnico e criativo sobre **observabilidade, IA e automação**
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=MathewsDomingos&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsDomingos&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+---
 
-💬 Quer me conhecer?
+### 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://www.linkedin.com/in/mathews-domingos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5516991585851&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateusdomingos.etec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mathews.domingos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+| Minhas Estatísticas | Principais Linguagens |
+| -------------------- | -------------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathewsDomingos&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsDomingos&hide_border=true&layout=compact&theme=radical) |
+
+---
+
+### 🧩 Projetos em Destaque
+
+🚦 **Monitor Craft** — Hub de monitoramento integrado com Zabbix, Grafana e n8n  
+📊 **Zabbix Reports Hub** — Geração de relatórios automáticos em PDF com fluxos inteligentes  
+🌐 **FreeFlow & Ecorodovias Dashboards** — Dashboards para tráfego e SLA em rodovias  
+💡 **Templates Zabbix by JLCP** — Templates personalizados para APIs, Links e OpenWeather
+
+---
+
+### 🎯 Metas 2025
+
+- 📈 Expandir o **Monitor Craft** como plataforma SaaS  
+- 🤖 Integrar **IA** aos relatórios de observabilidade  
+- ✍️ Publicar o livro **“Descomplicando o Zabbix 7”**  
+- 🎓 Concluir o TCC: *Observabilidade Alinhada ao Negócio*
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mathews-domingos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5516991585851" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:mateusdomingos.etec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/mathews.domingos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-<br>
-<br>
+
+---
 
 <details>
-<summary align="center">Certificações</summary>
-<h2 align="center">Certificados e Certificações</h2>
-<li><b>Certificação – Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> - <i>IBSEC</i>
+  <summary align="center">📜 Certificações</summary>
+  <br>
+  <ul>
+    <li><b>Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> – <i>IBSEC</i></li>
+    <li><b>Zabbix Certified Specialist</b> – (em andamento)</li>
+    <li><b>n8n Automations Advanced</b> – <i>JLCP Lab</i></li>
+  </ul>
 </details>
-<br> 
+
+---
+
+<p align="center">
+  🧠 <i>"Observabilidade é transformar dados em decisões."</i>
+</p>
 
 ![snake gif](https://github.com/MathewsDomingos/MathewsDomingos/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-<br> 
-
-
-
-<p>🧠 <spam style="font-style:italic">"Programming is the art of problem solving."</spam></p>
