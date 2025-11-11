@@ -84,8 +84,8 @@ Estas são algumas das stacks e ferramentas com que trabalho no dia a dia:
   <br>
   <ul>
     <li><b>Boas práticas de Cibersegurança (Cybersecurity Awareness)</b> – <i>IBSEC</i></li>
-    <li><b>Zabbix Certified Specialist</b> – (em andamento)</li>
-    <li><b>n8n Automations Advanced</b> – <i>JLCP Lab</i></li>
+    <li><b>Zabbix Certified User</b> – (ZCU)</li>
+    <li><b>n8n Automations Advanced</b> – <i>Rocktseet</i></li>
   </ul>
 </details>
 
