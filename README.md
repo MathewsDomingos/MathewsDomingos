@@ -56,8 +56,6 @@ Estas são algumas das stacks e ferramentas com que trabalho no dia a dia:
 
 🚦 **Monitor Craft** — Hub de monitoramento integrado com Zabbix, Grafana e n8n  
 📊 **Zabbix Reports Hub** — Geração de relatórios automáticos em PDF com fluxos inteligentes  
-🌐 **FreeFlow & Ecorodovias Dashboards** — Dashboards para tráfego e SLA em rodovias  
-💡 **Templates Zabbix by JLCP** — Templates personalizados para APIs, Links e OpenWeather
 
 ---
 
