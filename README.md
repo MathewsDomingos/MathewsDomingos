@@ -14,11 +14,10 @@ Sou Analista de Monitoramento e Desenvolvedor de soluções integradas em **Zabb
 Atualmente trabalho com **projetos de monitoramento para clientes do setor varejista, infraestrutura e rodovias**, criando dashboards inteligentes e automações que conectam dados, alertas e decisões.
 
 🎯 **Resumo rápido:**
-- 💼 Especialista em **Zabbix (v7 LTS)**, **Grafana OSS**, **n8n**, **Docker** e **Supabase**
+- 💼 Especialista em **Zabbix**, **Grafana** e **n8n**
 - 🧩 Criação de dashboards dinâmicos e relatórios automatizados (PDF, Telegram, E-mail)
 - ⚙️ Desenvolvimento de fluxos low-code/no-code para observabilidade e IA
-- 🧱 Experiência com ambientes Linux (Oracle Linux / Ubuntu)
-- 🧠 Estudante de **Análise e Desenvolvimento de Sistemas - FATEC Taquaritinga**
+- 🧱 Experiência com ambientes Linux (Oracle Linux / Ubuntu / Debian)
 - 🐈 Dono de um gato e entusiasta de projetos criativos 😸
 
 📫 **Contato:** [mateusdomingos.etec@gmail.com](mailto:mateusdomingos.etec@gmail.com)  
