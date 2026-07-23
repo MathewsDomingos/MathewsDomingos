@@ -29,7 +29,7 @@ Atualmente trabalho com **projetos de monitoramento para clientes do setor varej
 
 Estas são algumas das stacks e ferramentas com que trabalho no dia a dia:
 
-[![Skills](https://skillicons.dev/icons?i=linux,docker,grafana,mysql,html,css,js,php,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,docker,grafana,ai,powershell,postgres,supabase,mysql,html,css,js,php,py,git,github,ubuntu)](https://skillicons.dev)
 
 #### 🧩 Observabilidade & Automação
 - **Zabbix (Server, Proxy, API, Templates, Triggers, Actions)**
