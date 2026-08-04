@@ -1,12 +1,13 @@
 <img src="./assets/header.svg" alt="Mateus Domingos — Observabilidade, Automação, Zabbix / Grafana / n8n" width="100%">
 
 <img src="./assets/slogan.svg" alt="Observabilidade é transformar dados em decisão." width="100%">
-<br>
+
 ## Projetos
 
 <img src="./assets/carousel.svg" alt="Carrossel de projetos" width="100%">
 
 ## whoami
+
 ```console
 $ mateus --describe
 
