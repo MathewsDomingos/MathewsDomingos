@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 426" width="880" height="426" role="img" aria-label="Painel de status do GitHub de MathewsDomingos">
+  <defs>
+    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0 L0 0 0 22" fill="none" stroke="#141E2B" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c"><rect width="880" height="426" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, monospace">
+    <rect width="880" height="426" fill="#0B131F"/>
+    <rect width="880" height="426" fill="url(#g)" opacity="0.6"/>
+
+    <rect x="0" y="0" width="880" height="60" fill="#121A26"/>
+    <rect x="0" y="59" width="880" height="1" fill="#22303F"/>
+    <rect x="0" y="0" width="4" height="60" fill="#40E69A"/>
+
+    <text x="30" y="27" fill="#E8EEF5" font-size="14" font-weight="700" letter-spacing="2.2">LATEST DATA</text>
+    <text x="30" y="46" fill="#4E6076" font-size="11" letter-spacing="1.2">host: github.com/MathewsDomingos  ·  intervalo de coleta: 6h</text>
+    <circle cx="712" cy="30" r="4" fill="#40E69A"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="850" y="34" fill="#5C7086" font-size="10.5" text-anchor="end" letter-spacing="1">2026-08-04 16:21 UTC</text>
+
+    <rect x="16" y="74" width="848" height="34" fill="#101A27"/>
+    <circle cx="34" cy="91" r="4" fill="#40E69A"></circle>
+    <text x="52" y="96" fill="#8FA3B8" font-size="12.5">repos.public.count</text>
+    <text x="300" y="96" fill="#5C7086" font-size="12">Repositórios públicos</text>
+    <text x="850" y="96" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">24</text>
+    
+    <circle cx="34" cy="125" r="4" fill="#40E69A"></circle>
+    <text x="52" y="130" fill="#8FA3B8" font-size="12.5">commits.rate[30d]</text>
+    <text x="300" y="130" fill="#5C7086" font-size="12">Commits nos últimos 30 dias</text>
+    <text x="850" y="130" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">111</text>
+    <rect x="16" y="142" width="848" height="34" fill="#101A27"/>
+    <circle cx="34" cy="159" r="4" fill="#40E69A"></circle>
+    <text x="52" y="164" fill="#8FA3B8" font-size="12.5">activity.days[30d]</text>
+    <text x="300" y="164" fill="#5C7086" font-size="12">Dias com atividade</text>
+    <text x="850" y="164" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">22/30</text>
+    
+    <circle cx="34" cy="193" r="4" fill="#40E69A"></circle>
+    <text x="52" y="198" fill="#8FA3B8" font-size="12.5">repos.stars.total</text>
+    <text x="300" y="198" fill="#5C7086" font-size="12">Estrelas acumuladas</text>
+    <text x="850" y="198" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">25</text>
+    <rect x="16" y="210" width="848" height="34" fill="#101A27"/>
+    <circle cx="34" cy="227" r="4" fill="#40E69A"></circle>
+    <text x="52" y="232" fill="#8FA3B8" font-size="12.5">stack.primary</text>
+    <text x="300" y="232" fill="#5C7086" font-size="12">Linguagens dominantes</text>
+    <text x="850" y="232" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">PHP · Python · JavaScript</text>
+    
+    <circle cx="34" cy="261" r="4" fill="#40E69A"></circle>
+    <text x="52" y="266" fill="#8FA3B8" font-size="12.5">last.push.age</text>
+    <text x="300" y="266" fill="#5C7086" font-size="12">Último push</text>
+    <text x="850" y="266" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">1h atrás</text>
+    <rect x="16" y="278" width="848" height="34" fill="#101A27"/>
+    <circle cx="34" cy="295" r="4" fill="#40E69A"></circle>
+    <text x="52" y="300" fill="#8FA3B8" font-size="12.5">account.uptime</text>
+    <text x="300" y="300" fill="#5C7086" font-size="12">Uptime da conta</text>
+    <text x="850" y="300" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">6.5 anos</text>
+
+    <text x="30" y="330" fill="#4E6076" font-size="10.5" letter-spacing="1.8">COMMITS · ÚLTIMOS 30 DIAS</text>
+    <rect x="30" y="393" width="820" height="1" fill="#1D2A3A"/>
+    <rect x="30.0" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.00s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.00s" fill="freeze"/>
+    </rect>
+    <rect x="57.3" y="379" width="21.4" height="13" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="13" dur="0.7s" begin="0.02s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="379" dur="0.7s" begin="0.02s" fill="freeze"/>
+    </rect>
+    <rect x="84.7" y="371" width="21.4" height="21" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="21" dur="0.7s" begin="0.04s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="371" dur="0.7s" begin="0.04s" fill="freeze"/>
+    </rect>
+    <rect x="112.0" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.06s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.06s" fill="freeze"/>
+    </rect>
+    <rect x="139.3" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.08s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.08s" fill="freeze"/>
+    </rect>
+    <rect x="166.7" y="384" width="21.4" height="8" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="8" dur="0.7s" begin="0.10s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="384" dur="0.7s" begin="0.10s" fill="freeze"/>
+    </rect>
+    <rect x="194.0" y="363" width="21.4" height="29" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="29" dur="0.7s" begin="0.12s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="363" dur="0.7s" begin="0.12s" fill="freeze"/>
+    </rect>
+    <rect x="221.3" y="375" width="21.4" height="17" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="17" dur="0.7s" begin="0.14s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="375" dur="0.7s" begin="0.14s" fill="freeze"/>
+    </rect>
+    <rect x="248.7" y="388" width="21.4" height="4" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="4" dur="0.7s" begin="0.16s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="388" dur="0.7s" begin="0.16s" fill="freeze"/>
+    </rect>
+    <rect x="276.0" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.18s" fill="freeze"/>
+    </rect>
+    <rect x="303.3" y="367" width="21.4" height="25" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="25" dur="0.7s" begin="0.20s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="367" dur="0.7s" begin="0.20s" fill="freeze"/>
+    </rect>
+    <rect x="330.7" y="354" width="21.4" height="38" rx="2" fill="#40E69A">
+      <animate attributeName="height" from="0" to="38" dur="0.7s" begin="0.22s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="354" dur="0.7s" begin="0.22s" fill="freeze"/>
+    </rect>
+    <rect x="358.0" y="379" width="21.4" height="13" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="13" dur="0.7s" begin="0.24s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="379" dur="0.7s" begin="0.24s" fill="freeze"/>
+    </rect>
+    <rect x="385.3" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.26s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.26s" fill="freeze"/>
+    </rect>
+    <rect x="412.7" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.28s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.28s" fill="freeze"/>
+    </rect>
+    <rect x="440.0" y="371" width="21.4" height="21" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="21" dur="0.7s" begin="0.30s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="371" dur="0.7s" begin="0.30s" fill="freeze"/>
+    </rect>
+    <rect x="467.3" y="359" width="21.4" height="33" rx="2" fill="#40E69A">
+      <animate attributeName="height" from="0" to="33" dur="0.7s" begin="0.32s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="359" dur="0.7s" begin="0.32s" fill="freeze"/>
+    </rect>
+    <rect x="494.7" y="384" width="21.4" height="8" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="8" dur="0.7s" begin="0.34s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="384" dur="0.7s" begin="0.34s" fill="freeze"/>
+    </rect>
+    <rect x="522.0" y="375" width="21.4" height="17" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="17" dur="0.7s" begin="0.36s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="375" dur="0.7s" begin="0.36s" fill="freeze"/>
+    </rect>
+    <rect x="549.3" y="346" width="21.4" height="46" rx="2" fill="#40E69A">
+      <animate attributeName="height" from="0" to="46" dur="0.7s" begin="0.38s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="346" dur="0.7s" begin="0.38s" fill="freeze"/>
+    </rect>
+    <rect x="576.7" y="367" width="21.4" height="25" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="25" dur="0.7s" begin="0.40s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="367" dur="0.7s" begin="0.40s" fill="freeze"/>
+    </rect>
+    <rect x="604.0" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.42s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.42s" fill="freeze"/>
+    </rect>
+    <rect x="631.3" y="379" width="21.4" height="13" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="13" dur="0.7s" begin="0.44s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="379" dur="0.7s" begin="0.44s" fill="freeze"/>
+    </rect>
+    <rect x="658.7" y="363" width="21.4" height="29" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="29" dur="0.7s" begin="0.46s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="363" dur="0.7s" begin="0.46s" fill="freeze"/>
+    </rect>
+    <rect x="686.0" y="371" width="21.4" height="21" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="21" dur="0.7s" begin="0.48s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="371" dur="0.7s" begin="0.48s" fill="freeze"/>
+    </rect>
+    <rect x="713.3" y="388" width="21.4" height="4" rx="2" fill="#1F6B4D">
+      <animate attributeName="height" from="0" to="4" dur="0.7s" begin="0.50s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="388" dur="0.7s" begin="0.50s" fill="freeze"/>
+    </rect>
+    <rect x="740.7" y="390" width="21.4" height="2" rx="2" fill="#1D2A3A">
+      <animate attributeName="height" from="0" to="2" dur="0.7s" begin="0.52s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="390" dur="0.7s" begin="0.52s" fill="freeze"/>
+    </rect>
+    <rect x="768.0" y="354" width="21.4" height="38" rx="2" fill="#40E69A">
+      <animate attributeName="height" from="0" to="38" dur="0.7s" begin="0.54s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="354" dur="0.7s" begin="0.54s" fill="freeze"/>
+    </rect>
+    <rect x="795.3" y="367" width="21.4" height="25" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="25" dur="0.7s" begin="0.56s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="367" dur="0.7s" begin="0.56s" fill="freeze"/>
+    </rect>
+    <rect x="822.7" y="375" width="21.4" height="17" rx="2" fill="#2FB57A">
+      <animate attributeName="height" from="0" to="17" dur="0.7s" begin="0.58s" fill="freeze"/>
+      <animate attributeName="y" from="392" to="375" dur="0.7s" begin="0.58s" fill="freeze"/>
+    </rect>
+
+    <rect x="0.5" y="0.5" width="879" height="425" rx="14" fill="none" stroke="#1D2A3A"/>
+  </g>
+</svg>

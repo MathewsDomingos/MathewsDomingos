@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="880" height="130" role="img" aria-label="Observabilidade é transformar dados em decisão.">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#40E69A" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#40E69A" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#40E69A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#40E69A" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#40E69A" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#40E69A" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="sc"><rect width="880" height="130" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#sc)" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, monospace">
+    <rect width="880" height="130" fill="#0B131F"/>
+
+    <!-- brilho que atravessa a faixa -->
+    <rect x="-320" y="0" width="320" height="130" fill="url(#glow)">
+      <animate attributeName="x" values="-320;880" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="60" y1="34" x2="820" y2="34" stroke="url(#rail)" stroke-width="1"/>
+    <line x1="60" y1="102" x2="820" y2="102" stroke="url(#rail)" stroke-width="1"/>
+
+    <text x="440" y="76" text-anchor="middle" fill="#E8EEF5" font-size="24" font-weight="700" letter-spacing="0.5">
+      Observabilidade é transformar dados em decisão<tspan fill="#40E69A">.</tspan>
+    </text>
+
+    <rect x="778" y="58" width="11" height="24" fill="#40E69A">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

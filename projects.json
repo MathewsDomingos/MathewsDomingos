@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "zabbix-whatsapp-webhook",
+    "subtitulo": "alerta que chega onde a equipe realmente olha",
+    "descricao": "Webhook nativo do Zabbix que entrega o problema no WhatsApp com o screenshot do gráfico anexado. O técnico vê a curva antes de abrir o notebook.",
+    "stack": ["JavaScript", "Evolution API", "Zabbix API"],
+    "estado": "ok",
+    "imagem": "assets/projetos/whatsapp.png",
+    "link": "github.com/MathewsDomingos/zabbix-whatsapp-webhook"
+  },
+  {
+    "titulo": "Módulos de frontend para Zabbix",
+    "subtitulo": "quando o Zabbix não tem a tela, eu escrevo a tela",
+    "descricao": "Módulos PHP em arquitetura MVC dentro do próprio frontend. Um exporta o inventário de coletas de um host para planilha; outro traz os chamados do GLPI para dentro da tela de problemas.",
+    "stack": ["PHP 8", "Zabbix 7.x", "GLPI REST API"],
+    "estado": "wip",
+    "imagem": "assets/projetos/modulo.png",
+    "link": ""
+  },
+  {
+    "titulo": "Motor de SLA mensal",
+    "subtitulo": "disponibilidade que o cliente consegue auditar",
+    "descricao": "Item Script em JavaScript consultando a API do Zabbix de hora em hora: calcula % up/down do mês corrente e do anterior, com reset automático na virada. Exposto num card feito para telão de gerência.",
+    "stack": ["JavaScript", "Zabbix API", "Grafana", "htmlgraphics"],
+    "estado": "ok",
+    "imagem": "assets/projetos/sla.png",
+    "link": ""
+  },
+  {
+    "titulo": "Gerador de topologias air-gapped",
+    "subtitulo": "planilha entra, mapa sai",
+    "descricao": "Lê a planilha de inventário e emite o YAML de mapa pronto para importar no Zabbix: layout simétrico, âncoras de roteamento de link, status ao vivo por trigger e ícones próprios em 4 estados.",
+    "stack": ["Python", "Pillow", "Zabbix YAML", "Figma"],
+    "estado": "wip",
+    "imagem": "assets/projetos/topologia.png",
+    "link": ""
+  },
+  {
+    "titulo": "shorts-ai-mvp",
+    "subtitulo": "vídeo curto gerado do início ao fim por pipeline",
+    "descricao": "Baixa a fonte com yt-dlp, transcreve local com faster-whisper, pontua os melhores trechos com a Claude API e renderiza em 9:16 com legenda ASS via FFmpeg.",
+    "stack": ["Python", "Docker", "faster-whisper", "FFmpeg"],
+    "estado": "lab",
+    "imagem": "assets/projetos/shorts.png",
+    "link": ""
+  }
+]
