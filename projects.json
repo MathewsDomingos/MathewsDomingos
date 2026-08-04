@@ -9,21 +9,21 @@
     "link": "github.com/MathewsDomingos/zabbix-whatsapp-webhook"
   },
   {
-    "titulo": "Módulos de frontend para Zabbix",
+    "titulo": "Módulos frontend Zabbix - SLA Panel",
     "subtitulo": "quando o Zabbix não tem a tela, eu escrevo a tela",
     "descricao": "Módulos PHP em arquitetura MVC dentro do próprio frontend. Um exporta o inventário de coletas de um host para planilha; outro traz os chamados do GLPI para dentro da tela de problemas.",
     "stack": ["PHP 8", "Zabbix 7.x", "GLPI REST API"],
     "estado": "wip",
-    "imagem": "assets/projetos/modulo.png",
+    "imagem": "assets/projetos/modulo_sla.png",
     "link": ""
   },
   {
-    "titulo": "Motor de SLA mensal",
-    "subtitulo": "disponibilidade que o cliente consegue auditar",
-    "descricao": "Item Script em JavaScript consultando a API do Zabbix de hora em hora: calcula % up/down do mês corrente e do anterior, com reset automático na virada. Exposto num card feito para telão de gerência.",
-    "stack": ["JavaScript", "Zabbix API", "Grafana", "htmlgraphics"],
+    "titulo": "SEFAZ tá ON ou tá OFF?",
+    "subtitulo": "Disponibilidade SEFAZ por estado: NF-e, NFC-e, CT-e e MDF-e.",
+    "descricao": "Desenvolvimento de um painel interativo no Grafana para acompanhar o status dos serviços da SEFAZ por estado: NF-e, NFC-e, CT-e e MDF-e.",
+    "stack": ["JavaScript", "HTML", "CSS", "Grafana", "htmlgraphics"],
     "estado": "ok",
-    "imagem": "assets/projetos/sla.png",
+    "imagem": "assets/projetos/sefaz.png",
     "link": ""
   },
   {
@@ -35,13 +35,5 @@
     "imagem": "assets/projetos/topologia.png",
     "link": ""
   },
-  {
-    "titulo": "shorts-ai-mvp",
-    "subtitulo": "vídeo curto gerado do início ao fim por pipeline",
-    "descricao": "Baixa a fonte com yt-dlp, transcreve local com faster-whisper, pontua os melhores trechos com a Claude API e renderiza em 9:16 com legenda ASS via FFmpeg.",
-    "stack": ["Python", "Docker", "faster-whisper", "FFmpeg"],
-    "estado": "lab",
-    "imagem": "assets/projetos/shorts.png",
-    "link": ""
-  }
+
 ]
