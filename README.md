@@ -40,7 +40,7 @@ $ mateus --what-i-actually-do
 
 <sub>Este painel é gerado por um GitHub Action a cada 6 horas. Nada aqui é estático.</sub>
 
-<img src="./assets/status.svg" alt="Painel de métricas do GitHub em tempo quase real" width="100%">
+<img src="./.github/assets/status.svg" alt="Painel de métricas do GitHub em tempo quase real" width="100%">
 
 ---
 
