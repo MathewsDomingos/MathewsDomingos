@@ -1,0 +1,46 @@
+name: Atualizar painel de status
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # a cada 6 horas
+  workflow_dispatch:          # botão manual na aba Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-status.mjs"
+      - ".github/workflows/status.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: status-panel
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Gerar assets/status.svg
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-status.mjs
+
+      - name: Commitar se mudou
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/status.svg
+          if git diff --staged --quiet; then
+            echo "sem mudanças"
+          else
+            git commit -m "chore: atualiza painel de status [skip ci]"
+            git push
+          fi
