@@ -12,8 +12,6 @@
 🔗<a href="https://github.com/MathewsDomingos?tab=repositories">todos os repositórios</a>
 </sub>
 
----
-
 ## whoami
 
 ```console
@@ -38,15 +36,11 @@ $ mateus --what-i-actually-do
 > Não gosto de monitoramento que só pisca vermelho. Gosto do que responde
 > *"quanto isso custou?"* e *"o que eu faço agora?"*.
 
----
-
 ## Status ao vivo
 
 <sub>Painel gerado por um GitHub Action a cada 6 horas. Nada aqui é estático.</sub>
 
 <img src="./assets/status.svg" alt="Painel de métricas do GitHub em tempo quase real" width="100%">
-
----
 
 ## Stack
 
@@ -60,21 +54,15 @@ $ mateus --what-i-actually-do
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,postgres,mysql,py,php,js,html,css,bash,git,github,powershell,figma&theme=dark" alt="Stack">
 </p>
 
----
-
 ## Histórico profissional
 
 <img src="./assets/timeline.svg" alt="Histórico profissional" width="100%">
-
----
 
 ## Certificações
 
 - **Zabbix Certified User** (ZCU)
 - **n8n Automations Advanced** — Rocketseat
 - **Boas práticas de Cibersegurança** — IBSEC
-
----
 
 ## Contato
 
