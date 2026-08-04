@@ -31,7 +31,7 @@
     "subtitulo": "planilha entra, mapa sai",
     "descricao": "Lê a planilha de inventário e emite o YAML de mapa pronto para importar no Zabbix: layout simétrico, âncoras de roteamento de link, status ao vivo por trigger e ícones próprios em 4 estados.",
     "stack": ["Python", "Pillow", "Zabbix YAML", "Figma"],
-    "estado": "wip",
+    "estado": "ok",
     "imagem": "assets/projetos/topologia.png",
     "link": ""
   }
