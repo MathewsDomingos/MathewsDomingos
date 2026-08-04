@@ -9,9 +9,7 @@
 <img src="./assets/carousel.svg" alt="Carrossel de projetos" width="100%">
 
 <sub>
-🔗
-<a href="https://github.com/MathewsDomingos/zabbix-whatsapp-webhook">zabbix-whatsapp-webhook</a> ·
-<a href="https://github.com/MathewsDomingos?tab=repositories">todos os repositórios</a>
+🔗<a href="https://github.com/MathewsDomingos?tab=repositories">todos os repositórios</a>
 </sub>
 
 ---
