@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Mateus Domingos — Observabilidade, Automação, Zabbix / Grafana / n8n" width="100%">
+<img src="./.github/assets/header.svg" alt="Mateus Domingos — Observabilidade, Automação, Zabbix / Grafana / n8n" width="100%">
 
 <p align="center">
   <a href="#-whoami">whoami</a> ·
