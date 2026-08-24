@@ -16,7 +16,7 @@
     <text x="30" y="27" fill="#E8EEF5" font-size="14" font-weight="700" letter-spacing="2.2">LATEST DATA</text>
     <text x="30" y="46" fill="#4E6076" font-size="11" letter-spacing="1.2">host: github.com/MathewsDomingos  ·  intervalo de coleta: 6h</text>
     <circle cx="712" cy="30" r="4" fill="#40E69A"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
-    <text x="850" y="34" fill="#5C7086" font-size="10.5" text-anchor="end" letter-spacing="1">2026-08-24 13:14 UTC</text>
+    <text x="850" y="34" fill="#5C7086" font-size="10.5" text-anchor="end" letter-spacing="1">2026-08-24 19:01 UTC</text>
 
     <rect x="16" y="74" width="848" height="34" fill="#101A27"/>
     <circle cx="34" cy="91" r="4" fill="#40E69A"></circle>
@@ -47,7 +47,7 @@
     <circle cx="34" cy="261" r="4" fill="#40E69A"></circle>
     <text x="52" y="266" fill="#8FA3B8" font-size="12.5">last.push.age</text>
     <text x="300" y="266" fill="#5C7086" font-size="12">Último push</text>
-    <text x="850" y="266" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">2h atrás</text>
+    <text x="850" y="266" fill="#40E69A" font-size="13.5" font-weight="700" text-anchor="end">3h atrás</text>
     <rect x="16" y="278" width="848" height="34" fill="#101A27"/>
     <circle cx="34" cy="295" r="4" fill="#40E69A"></circle>
     <text x="52" y="300" fill="#8FA3B8" font-size="12.5">account.uptime</text>
